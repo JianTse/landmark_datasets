@@ -24,6 +24,9 @@
 Name:ibug3000
 Link: http://dlib.net/files/data/
 
+Name: FAN
+https://www.adrianbulat.com/face-alignment
+
 Name: <a name="muct"></a>**MUCT**  
 Link: http://www.milbo.org/muct/  
 Description: The MUCT database consists of 3755 faces with 76 manual landmarks. The database was created to provide more diversity of lighting, age, and ethnicity than currently available landmarked 2D face databases.  
