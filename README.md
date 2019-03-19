@@ -31,6 +31,7 @@ Name: FAN
 https://www.adrianbulat.com/face-alignment
 
 http://www.ifp.illinois.edu/~vuongle2/helen/
+https://github.com/TomaszRewak/Face-Landmarking
 
 Name: <a name="muct"></a>**MUCT**  
 Link: http://www.milbo.org/muct/  
