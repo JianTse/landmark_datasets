@@ -21,6 +21,9 @@
 
 ### Datasets
 
+landmark如何选择loss，以及如何提升精度
+https://blog.csdn.net/u011995719/article/details/80150508
+
 read
 https://www.jianshu.com/p/e4b9317a817f
 
