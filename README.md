@@ -27,6 +27,7 @@ wind loss
 https://www.jianshu.com/p/2a76d58d5f37
 这篇论文是cvpr2018的一片关于landmark的论文。
 caffe下的实现：https://github.com/JunrQ/caffe-layer
+wing loss 的python实现： https://www.jianshu.com/p/9c9e2c9e8b91
 
 read
 https://www.jianshu.com/p/e4b9317a817f
