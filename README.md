@@ -23,6 +23,10 @@
 
 landmark如何选择loss，以及如何提升精度
 https://blog.csdn.net/u011995719/article/details/80150508
+wind loss
+https://www.jianshu.com/p/2a76d58d5f37
+这篇论文是cvpr2018的一片关于landmark的论文。
+caffe下的实现：https://github.com/JunrQ/caffe-layer
 
 read
 https://www.jianshu.com/p/e4b9317a817f
